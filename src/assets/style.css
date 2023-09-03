@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Naskh+Arabic:wght@500&display=swap');
+
+.card:hover .text-surah {
+  color: #4682A9;
+}
+.card {
+  cursor: pointer;
+}
+.card:hover {
+  border-color: #4682A9;
+}
+.surah-name{
+  color: #4682A9;
+}
+.text-latin{
+  color: #4682A9;
+}
+.card-custom{
+  border: none;
+}
+.arabic {
+  font-family: 'Noto Naskh Arabic', serif;
+}
